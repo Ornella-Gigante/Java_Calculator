@@ -1,4 +1,28 @@
 
+# 🧮 Java_Calculator: A Simple Yet Powerful Calculator
+
+Welcome to **Java_Calculator**! This repository hosts a basic calculator application developed in Java, designed to perform fundamental arithmetic operations. Here's what you need to know:
+
+## 🚀 Project Overview
+
+- **Platform**: Desktop Application
+- **Language**: Java
+- **Purpose**: To provide a user-friendly calculator for basic arithmetic calculations.
+
+## 🌟 Key Features
+
+- **Basic Operations**: Supports addition, subtraction, multiplication, and division.
+- **User Interface**: A clean and intuitive GUI for easy interaction.
+- **Error Handling**: Includes checks for division by zero and invalid input.
+- **Memory Functions**: Allows for storing and recalling values for complex calculations.
+
+## 🛠️ How to Use
+
+1. **Clone the Repository**: 
+git clone https://github.com/Ornella-Gigante/Java_Calculator.git
+
+text
+
 2. **Open in Your IDE**: Import the project into your preferred Java IDE (e.g., Eclipse, IntelliJ IDEA).
 
 3. **Run the Application**:
@@ -32,11 +56,11 @@ This project is open-sourced under the [MIT License](LICENSE). You are free to u
 
 ## 🌐 Connect
 
+- [GitHub](https://github.com/Ornella-Gigante)
 - [LinkedIn](https://www.linkedin.com/in/ornella-gigante/)
 
 Let's make calculations simple and fun with **Java_Calculator**! 🎉
 
 ![Calculator Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Calculator_icon.svg/1200px-Calculator_icon.svg.png)
 
-*Image by OpenClipart-Vectors, licensed under the [Creative Commons Zero (CC0) license](https://creativecommons.org/publicdomain/zero/1.0/deed.en).*
-
+*Image by OpenClipart-Vectors, licensed under the [Creative Commons Zero (CC0) license]
