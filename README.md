@@ -6,6 +6,7 @@ Welcome to **Java_Calculator**! This repository hosts a basic calculator applica
 ## 🚀 Project Overview
 
 - **Platform**: Desktop Application
+- **IDE**:Eclipse
 - **Language**: Java
 - **Purpose**: To provide a user-friendly calculator for basic arithmetic calculations.
 
@@ -56,11 +57,7 @@ This project is open-sourced under the [MIT License](LICENSE). You are free to u
 
 ## 🌐 Connect
 
-- [GitHub](https://github.com/Ornella-Gigante)
 - [LinkedIn](https://www.linkedin.com/in/ornella-gigante/)
 
-Let's make calculations simple and fun with **Java_Calculator**! 🎉
 
-![Calculator Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Calculator_icon.svg/1200px-Calculator_icon.svg.png)
 
-*Image by OpenClipart-Vectors, licensed under the [Creative Commons Zero (CC0) license]
